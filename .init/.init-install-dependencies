@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/hello-world-react-app-10164-10178/react_frontend"
+}
